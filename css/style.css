@@ -279,6 +279,8 @@ h3{
     background-color: #242424;
 }
 .rodapeCarrinho p{
+    display: flex;
+    justify-content: space-between;
     font-size: 16px;
     margin-bottom: 10px;
 } 
